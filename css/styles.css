@@ -140,4 +140,6 @@ h4 {
 #results p {
   font-family: Gill Sans, sans-serif;
   text-align: left;
+  padding: 0px;
+  margin: 0px;
 }
